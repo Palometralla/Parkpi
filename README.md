@@ -21,4 +21,4 @@ Parkpi es un parquimetro LowCost para Raspberry Pi, ha sido programado en Python
 
 	6. Los scripts LCD.py y parki.py asi como la imagen indice.jpg deben de estar en el mismo directorio.
 
-El hardware necesario para usar la aplicación serían 4 pulsadores en configuracion pull-up almentados a 3.3 V y un LCD con la configuracion que describe el documento RPi_16x2_LCD.pdf. Un resistor variable de 2.2K para controlar el contraste del LCD y una impresora conectada a Raspberry.
+	El hardware necesario para usar la aplicación serían 4 pulsadores en configuracion pull-up almentados a 3.3 V y un LCD con la configuracion que describe el documento RPi_16x2_LCD.pdf. Un resistor variable de 2.2K para controlar el contraste del LCD y una impresora conectada a Raspberry.
